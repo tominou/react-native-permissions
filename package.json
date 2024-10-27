@@ -60,8 +60,7 @@
   },
   "peerDependencies": {
     "react": ">=18.1.0",
-    "react-native": ">=0.70.0",
-    "react-native-windows": ">=0.70.0"
+    "react-native": ">=0.70.0"
   },
   "peerDependenciesMeta": {
     "react-native-windows": {
